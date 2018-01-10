@@ -13,7 +13,7 @@ public class GetTime20 extends Thread {
         String timeOutput;
         String dateOutput;
 
-        for (int i = 0; i <20 ; i++) {
+        for (int i = 0; i < 20 ; i++) {
             rightNow = new Date();
             currentLocale = new Locale("he");
 
