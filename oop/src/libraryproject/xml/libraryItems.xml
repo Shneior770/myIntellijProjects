@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><items>
+    <book author="J K rolling" name="Harry Potter" publicationYear="1995">
+        <edition>2</edition>
+        <borrowTime></borrowTime>
+    </book>
+    <book author="Harlen Coben" name="Gone For Good" publicationYear="2001">
+        <edition>2</edition>
+        <borrowTime/>
+    </book>
+    <magazine author="Ron Yaron" name="Yediot" publicationYear="2010">
+        <borrowTime/>
+    </magazine>
+    <magazine author="Elik Margalit" name="Maariv" publicationYear="2014">
+        <borrowTime/>
+    </magazine>
+    <article author="Shneior" name="Learning Disability" publicationYear="1985">
+        <publicationMonth>12</publicationMonth>
+        <borrowTime/>
+    </article>
+    <article author="dr fisher" name="Brain not getting old" publicationYear="1970">
+        <publicationMonth>9</publicationMonth>
+        <borrowTime/>
+    </article>
+</items>
